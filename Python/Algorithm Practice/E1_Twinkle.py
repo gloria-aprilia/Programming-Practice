@@ -1,0 +1,6 @@
+print("Twinkle twinkle little star.")
+print(" "*5 + "How I wonder what you are?")
+print(" "*10 + "Up above the world so high.")
+print(" "*10 + "Like a diamond in the sky.")
+print("Twinkle twinkle little star.")
+print(" "*5 + "How I wonder what you are?")
